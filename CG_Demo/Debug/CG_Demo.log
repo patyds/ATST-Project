@@ -1,0 +1,20 @@
+﻿  Dummie.cpp
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\dummie.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\dummie.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\dummie.cpp(143): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cHead.cpp
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(104): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(131): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(132): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(163): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\paty\documents\tec\8vosemestre\computer graphics\projects\atstproject\cg_demo\source\chead.cpp(166): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  CG_Demo.vcxproj -> C:\Users\Paty\Documents\TEC\8voSemestre\Computer Graphics\Projects\ATSTProject\Debug\CG_Demo.exe
